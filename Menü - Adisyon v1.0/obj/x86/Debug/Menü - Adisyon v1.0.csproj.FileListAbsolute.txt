@@ -1,0 +1,14 @@
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\bin\Debug\Menü - Adisyon v1.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\bin\Debug\Menü - Adisyon v1.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü___Adisyon_v1._0.Form1.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü___Adisyon_v1._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Menü - Adisyon v1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.exe
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\bin\Debug\Menü - Adisyon v1.0.exe
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\bin\Debug\Menü - Adisyon v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü___Adisyon_v1._0.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü___Adisyon_v1._0.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\43 Menü - Adisyon V1.0\Menü - Adisyon v1.0\obj\x86\Debug\Menü - Adisyon v1.0.csproj.GenerateResource.Cache
